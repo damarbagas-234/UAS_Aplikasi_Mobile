@@ -43,3 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+.vscode/templates
+CLAUDE.md
+.gitignore
+# toko_jaket_1123150107
