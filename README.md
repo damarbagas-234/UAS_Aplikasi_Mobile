@@ -119,8 +119,30 @@ redis-cli
 
 ## Screenshot Aplikasi
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/19cf2982-894c-4eb1-bf52-3aac8c1a8fed" width="250" />
+  <img src="https://github.com/user-attachments/assets/58744cfe-a0a8-4753-aeea-cfc1d9520e4f" width="250" />
+  <img src="https://github.com/user-attachments/assets/ced5e8ba-ed07-4830-87e2-3aeea6d7ec43" width="250" />
+  <img src="https://github.com/user-attachments/assets/d632f665-fd0f-4e27-83bc-cbd7ca071ac7" width="250" />
+  <img src="https://github.com/user-attachments/assets/cd13f852-b24a-4bef-963b-48d33b30e31c" width="250" />
+  <img src="https://github.com/user-attachments/assets/aba87619-6f17-45da-a44e-28241a1229cf" width="250" />
+  <img src="https://github.com/user-attachments/assets/6bc6df45-269d-49f6-8fe8-6bccbab8abc2" width="250" />
+  <img src="https://github.com/user-attachments/assets/1c903b0c-89a2-464a-a5ec-0fe4d2c4b52e" width="250" />
+  <img src="https://github.com/user-attachments/assets/77983633-d4af-4e57-93bd-f2a892b1afe8" width="250" />
+  <img src="https://github.com/user-attachments/assets/36e8da99-e49e-43cb-8e17-7d70913e24b5" width="250" />
+
+  ### DeepLink dari toko jaket ke e uang
+  <img src="https://github.com/user-attachments/assets/4ea2e1af-07d3-40e1-840c-9beb5f0e6790" width="250" />
+  <img src="https://github.com/user-attachments/assets/48a259da-a17f-472c-b653-2f52d6cddf65" width="250" />
+  <img src="https://github.com/user-attachments/assets/7b1fa14b-6bbb-4acd-8485-ace7e8c10ac3" width="250" />
+  <img src="https://github.com/user-attachments/assets/d7513557-159c-43dd-86d9-f67f84131e94" width="250" />
+  <br>
+  setelah memasukan totp dari google authenticator :
+  <br>
+  <img src="https://github.com/user-attachments/assets/3267302e-e984-47c7-9be7-eb45be1204cd" width="250" />
+</div>
 
 
 ## Video Presentasi
 
-
+[Video Presentasi]()
