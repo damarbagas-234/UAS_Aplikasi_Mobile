@@ -75,10 +75,9 @@ class _SplashPageState extends State<SplashPage> {
                   child: Column(
                     children: [
                       const Spacer(),
-                      const AppLogo(size: 92, light: true),
                       const SizedBox(height: 26),
                       const Text(
-                        'Dompet Kampus',
+                        'E Uang',
                         style: TextStyle(
                           fontFamily: 'PlusJakartaSans',
                           fontSize: 30,
@@ -89,7 +88,7 @@ class _SplashPageState extends State<SplashPage> {
                       ),
                       const SizedBox(height: 2),
                       const Text(
-                        'GLOBAL',
+                        'Wallet',
                         style: TextStyle(
                           fontFamily: 'PlusJakartaSans',
                           fontSize: 18,
