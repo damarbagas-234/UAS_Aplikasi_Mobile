@@ -49,7 +49,7 @@ class DompetKampusApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      title: 'Dompet Kampus Global',
+      title: 'E Uang',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.light,
       routerConfig: AppRouter.router,
