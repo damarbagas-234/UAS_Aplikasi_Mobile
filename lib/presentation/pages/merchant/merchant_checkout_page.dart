@@ -175,13 +175,12 @@ class MerchantCheckoutPage extends StatelessWidget {
                     ),
                     child: Row(
                       children: [
-                        const AppLogo(size: 40),
                         const SizedBox(width: 12),
                         const Expanded(
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
-                              Text('Dompet Kampus Global',
+                              Text('E Uang',
                                   style: TextStyle(
                                     fontFamily: 'PlusJakartaSans',
                                     fontSize: 14.5,
