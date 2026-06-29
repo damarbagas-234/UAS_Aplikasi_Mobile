@@ -183,7 +183,6 @@ class _HomePageState extends State<HomePage> {
             children: [
               Row(
                 children: [
-                  const AppLogo(size: 26),
                   const SizedBox(width: 7),
                   const Text('Saldo DKG',
                       style: TextStyle(
