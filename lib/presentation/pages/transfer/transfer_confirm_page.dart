@@ -126,7 +126,6 @@ class TransferConfirmPage extends StatelessWidget {
                     ),
                     child: Row(
                       children: [
-                        const AppLogo(size: 30),
                         const SizedBox(width: 12),
                         const Expanded(
                           child: Column(
