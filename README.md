@@ -145,4 +145,4 @@ redis-cli
 
 ## Video Presentasi
 
-[Video Presentasi]()
+[Video Presentasi](https://www.youtube.com/watch?v=3ffwMaRlKmo)
