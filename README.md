@@ -145,4 +145,4 @@ redis-cli
 
 ## Video Presentasi
 
-[Video Presentasi](https://www.youtube.com/watch?v=3ffwMaRlKmo)
+[Video Presentasi](https://youtu.be/IdOhBOECqq4?si=M8XAZXqJQJ6-zZOZ)
